@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nasagaurav.github.io/csb-bn2fht/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nasagaurav.github.io/csb-bn2fht/static/js/main.d3651495.chunk.js",
+    "main.js.map": "https://nasagaurav.github.io/csb-bn2fht/static/js/main.d3651495.chunk.js.map",
+    "runtime-main.js": "https://nasagaurav.github.io/csb-bn2fht/static/js/runtime-main.b9f278a2.js",
+    "runtime-main.js.map": "https://nasagaurav.github.io/csb-bn2fht/static/js/runtime-main.b9f278a2.js.map",
+    "static/js/2.e1f78976.chunk.js": "https://nasagaurav.github.io/csb-bn2fht/static/js/2.e1f78976.chunk.js",
+    "static/js/2.e1f78976.chunk.js.map": "https://nasagaurav.github.io/csb-bn2fht/static/js/2.e1f78976.chunk.js.map",
+    "index.html": "https://nasagaurav.github.io/csb-bn2fht/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nasagaurav.github.io/csb-bn2fht/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e1f78976.chunk.js.LICENSE.txt": "https://nasagaurav.github.io/csb-bn2fht/static/js/2.e1f78976.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9f278a2.js",
+    "static/js/2.e1f78976.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d3651495.chunk.js"
+  ]
+}
